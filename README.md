@@ -6,6 +6,7 @@ I am a mathematician and computer scientist.
 ## Interests
 
 - Abstract algebra
+- Computational theory
 - Computer organization
 - Cryptography
 - Design of experiments
@@ -18,8 +19,11 @@ I am a mathematician and computer scientist.
 <img src="https://github.com/user-attachments/assets/5cbc45fb-aa59-4e46-a0dd-f7c74f2c2f45" style="width: 30vw;">
 
 ## Fun facts
-- I like editing wikipedia
-- My favorite band is Caifanes, my favorite music genre is math rock
-- I play instruments and read outside of the codespace
-- Can eat anything but fig pizza
-- I speak spanish, english, and I took one year of elementary Japanese
+- I like editing wikipedia.
+- My favorite band is Caifanes, my favorite music genre is math rock.
+- I play instruments and read outside of the codespace.
+- Can eat anything but fig pizza.
+- I speak spanish, english, and I took one year of elementary Japanese.
+- I have a huge collection of coins.
+- I solve leetcode and play chess on the daily.
+- Soccer and baseball are my favorite sports.
